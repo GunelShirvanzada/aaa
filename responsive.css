@@ -1,0 +1,170 @@
+@media (max-width:576px) {
+
+    /* header */
+
+    .container {
+        padding: 15px;
+    }
+
+    .nav_links {
+        display: none;
+    }
+
+    .nav_button button:nth-child(3) {
+        display: block;
+        padding: 0 13px;
+        margin: 0 10px;
+    }
+
+    /* section 1 */
+
+    .card_main {
+        width: 540px;
+        height: 300px;
+        margin-bottom: 20px;
+    }
+
+    .card_1 {
+        width: 500px;
+    }
+
+    .card_1 h2 {
+        font-size: 24px;
+    }
+
+    .card_2 h5 {
+        font-size: 32px;
+    }
+
+    .card_button {
+        margin-top: 30px;
+    }
+
+    /* section 2 */
+
+    .logo_main {
+        width: 540px;
+        gap: 7px;
+    }
+
+    .logo_child img {
+        width: 60px;
+    }
+
+    .logo_line {
+        height: 30px;
+    }
+
+    .logo_child:nth-child(7),
+    .logo_line:nth-child(6) {
+        display: none;
+    }
+
+    .logo_child:nth-child(6),
+    .logo_line:nth-child(5) {
+        display: none;
+    }
+
+    /* section 3 */
+
+    .img_icon {
+        width: 530px;
+        height: 400px;
+    }
+
+    .img_icon img {
+        width: 530px;
+        height: 400px;
+    }
+
+    /* section 4 */
+
+    .benefit_button {
+        margin-top: 100px;
+    }
+
+    /* section 5 */
+
+    .card_bnft_main {
+        width: 530px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card_bnft i {
+        margin-left: 380px;
+    }
+
+    /* section 6 */
+
+    #course .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .our {
+        padding: 0 14px;
+        height: 500px;
+    }
+
+    .our img {
+        width: 500px;
+        margin-top: 10px;
+    }
+
+    .our button {
+        margin-bottom: 20px;
+        width: 500px;
+    }
+
+    /* section 7 */
+
+    #testimonial .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .testimonials {
+        height: 250px;
+    }
+
+    .testimonials p {
+        line-height: 22px;
+    }
+
+    .t_line {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    /* section 8 */
+    .ust {
+        display: flex;
+        flex-direction: column;
+        width: 540px;
+    }
+
+    .pricinggg {
+        width: 530px;
+        padding: 0;
+    }
+
+    /* .alt {
+        display: flex;
+        flex-direction: column;
+        width: 530px;
+        align-items: center;
+    }
+
+    .pricing_1 {
+        top: 0;
+        width: 480px;
+        margin-bottom: 80px;
+    } */
+
+
+
+
+
+}
